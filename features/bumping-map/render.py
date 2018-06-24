@@ -64,7 +64,7 @@ class vec3():
         ve=vec3(x,y,z)
         return ve
 
-
+#
 
 rgb = vec3
 tangent=vec3
